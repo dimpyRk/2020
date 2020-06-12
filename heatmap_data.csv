@@ -92,6 +92,14 @@ group,variable,value
 39000,6,Scareware
 39000,7,Scareware
 39000,8,Scareware
+39000,9,Scareware
+39000,10,Scareware
+39000,11,Scareware
+39000,12,Scareware
+39000,13,Scareware
+39000,14,Scareware
+39000,15,Scareware
+45670,6,Scareware
 45670,7,Scareware
 45670,8,Scareware
 45670,9,Scareware
@@ -101,6 +109,16 @@ group,variable,value
 45670,13,Scareware
 45670,14,Scareware
 45670,15,Scareware
+64546,6,SMS Malware
+64546,7,SMS Malware
+64546,8,SMS Malware
+64546,9,SMS Malware
+64546,10,SMS Malware
+64546,11,SMS Malware
+64546,12,SMS Malware
+64546,13,SMS Malware
+64546,14,SMS Malware
+64546,15,SMS Malware
 66556,6,SMS Malware
 66556,7,SMS Malware
 66556,8,SMS Malware
