@@ -19,6 +19,26 @@ group,variable,value
 18,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEJOBOFFER              0
 19,0,8.6.0.1           0                 8.0.6.4                        0                     BENIGN              0
 20,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKETAOBAO              0
+21,0,136.142.1.3           0                 0.117.2.1                        0                     SCAREWARE_ANDROIDSPY              0
+22,0,136.142.1.3           0                 0.95.2.3                        0                     SCAREWARE_AVFORANDROID              0
+23,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEAPP              0
+24,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEAV              0
+25,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEJOBOFFER              0
+26,0,8.6.0.1           0                 8.0.6.4                        0                     BENIGN              0
+27,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKETAOBAO              0
+28,0,136.142.1.3           0                 0.117.2.1                        0                     SCAREWARE_ANDROIDSPY              0
+29,0,136.142.1.3           0                 0.95.2.3                        0                     SCAREWARE_AVFORANDROID              0
+30,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEAPP              0
+31,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEAV              0
+32,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEJOBOFFER              0
+33,0,8.6.0.1           0                 8.0.6.4                        0                     BENIGN              0
+34,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKETAOBAO              0
+35,0,136.142.1.3           0                 0.117.2.1                        0                     SCAREWARE_ANDROIDSPY              0
+36,0,136.142.1.3           0                 0.95.2.3                        0                     SCAREWARE_AVFORANDROID              0
+37,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEAV              0
+38,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKEJOBOFFER              0
+39,0,8.6.0.1           0                 8.0.6.4                        0                     BENIGN              0
+40,0,8.6.0.1           0                 8.0.6.4                        0                     SCAREWARE_FAKETAOBAO              0
 1,ANDROIDDEFENDER,10.42.0.211           41129                 172.217.10.97                        443                     SCAREWARE_ANDROIDDEFENDER              6
 2,ANDROIDDEFENDER,10.42.0.211           48162                 172.217.6.193                        443                     SCAREWARE_ANDROIDDEFENDER              6
 3,ANDROIDDEFENDER,10.42.0.211           50074                 172.217.6.238                        443                     SCAREWARE_ANDROIDDEFENDER              6
@@ -39,6 +59,26 @@ group,variable,value
 18,ANDROIDDEFENDER,10.42.0.211           1437                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
 19,ANDROIDDEFENDER,10.42.0.211           23241                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
 20,ANDROIDDEFENDER,10.42.0.211           17985                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+21,ANDROIDDEFENDER,10.42.0.211           41129                 172.217.10.97                        443                     SCAREWARE_ANDROIDDEFENDER              6
+22,ANDROIDDEFENDER,10.42.0.211           48162                 172.217.6.193                        443                     SCAREWARE_ANDROIDDEFENDER              6
+23,ANDROIDDEFENDER,10.42.0.211           50074                 172.217.6.238                        443                     SCAREWARE_ANDROIDDEFENDER              6
+24,ANDROIDDEFENDER,10.42.0.211           52801                 172.217.6.238                        443                     SCAREWARE_ANDROIDDEFENDER              6
+25,ANDROIDDEFENDER,10.42.0.211           55440                 172.217.6.238                        443                     SCAREWARE_ANDROIDDEFENDER              6
+26,ANDROIDDEFENDER,10.42.0.211           33313                 131.253.61.84                        443                     SCAREWARE_ANDROIDDEFENDER              6
+27,ANDROIDDEFENDER,54.76.65.98           443                 10.42.0.211                        52014                     SCAREWARE_ANDROIDDEFENDER              6
+28,ANDROIDDEFENDER,10.42.0.211           52014                 54.76.65.98                        443                     SCAREWARE_ANDROIDDEFENDER              6
+29,ANDROIDDEFENDER,10.42.0.211           33314                 131.253.61.84                        443                     SCAREWARE_ANDROIDDEFENDER              6
+30,ANDROIDDEFENDER,10.42.0.211           39010                 31.13.71.3                        443                     SCAREWARE_ANDROIDDEFENDER              6
+31,ANDROIDDEFENDER,10.42.0.211           42431                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+32,ANDROIDDEFENDER,10.42.0.211           42321                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+33,ANDROIDDEFENDER,10.42.0.211           16235                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+34,ANDROIDDEFENDER,10.42.0.211           55269                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+35,ANDROIDDEFENDER,10.42.0.211           34881                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+36,ANDROIDDEFENDER,10.42.0.211           32204                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+37,ANDROIDDEFENDER,10.42.0.211           52605                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+38,ANDROIDDEFENDER,10.42.0.211           1437                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+39,ANDROIDDEFENDER,10.42.0.211           23241                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
+40,ANDROIDDEFENDER,10.42.0.211           17985                 10.42.0.1                        53                     SCAREWARE_ANDROIDDEFENDER              17
 1,ANDROIDSPY ,87.240.165.80           80                 10.42.0.151                        34635                     SCAREWARE_ANDROIDSPY              6
 2,ANDROIDSPY ,180.163.255.159           80                 10.42.0.151                        45426                     SCAREWARE_ANDROIDSPY              6
 3,ANDROIDSPY ,10.42.0.151           35826                 182.22.25.124                        443                     SCAREWARE_ANDROIDSPY              6
@@ -59,6 +99,26 @@ group,variable,value
 18,ANDROIDSPY ,10.42.0.151           60903                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
 19,ANDROIDSPY ,10.42.0.151           36882                 172.217.10.13                        443                     SCAREWARE_ANDROIDSPY              17
 20,ANDROIDSPY ,10.42.0.151           29373                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+21,ANDROIDSPY ,87.240.165.80           80                 10.42.0.151                        34635                     SCAREWARE_ANDROIDSPY              6
+22,ANDROIDSPY ,180.163.255.159           80                 10.42.0.151                        45426                     SCAREWARE_ANDROIDSPY              6
+23,ANDROIDSPY ,10.42.0.151           35826                 182.22.25.124                        443                     SCAREWARE_ANDROIDSPY              6
+24,ANDROIDSPY ,52.10.216.232           80                 10.42.0.151                        34351                     SCAREWARE_ANDROIDSPY              6
+25,ANDROIDSPY ,198.11.188.80           443                 10.42.0.151                        58658                     SCAREWARE_ANDROIDSPY              6
+26,ANDROIDSPY ,203.205.147.229           80                 10.42.0.151                        36804                     SCAREWARE_ANDROIDSPY              6
+27,ANDROIDSPY ,180.149.153.68           80                 10.42.0.151                        49261                     SCAREWARE_ANDROIDSPY              6
+28,ANDROIDSPY ,36.51.254.232           443                 10.42.0.151                        35316                     SCAREWARE_ANDROIDSPY              6
+29,ANDROIDSPY ,76.13.28.70           443                 10.42.0.151                        42169                     SCAREWARE_ANDROIDSPY              6
+30,ANDROIDSPY ,203.205.147.229           80                 10.42.0.151                        36799                     SCAREWARE_ANDROIDSPY              6
+31,ANDROIDSPY ,10.42.0.151           62756                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+32,ANDROIDSPY ,10.42.0.151           43801                 172.217.12.205                        443                     SCAREWARE_ANDROIDSPY              17
+33,ANDROIDSPY ,10.42.0.151           8527                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+34,ANDROIDSPY ,10.42.0.151           4398                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+35,ANDROIDSPY ,10.42.0.151           35121                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+36,ANDROIDSPY ,10.42.0.151           46867                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+37,ANDROIDSPY ,10.42.0.151           59703                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+38,ANDROIDSPY ,10.42.0.151           60903                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
+39,ANDROIDSPY ,10.42.0.151           36882                 172.217.10.13                        443                     SCAREWARE_ANDROIDSPY              17
+40,ANDROIDSPY ,10.42.0.151           29373                 10.42.0.1                        53                     SCAREWARE_ANDROIDSPY              17
 1,AVFORANDROID,10.42.0.151           57573                 202.108.23.109                        80                     SCAREWARE_AVFORANDROID              6
 2,AVFORANDROID,172.217.11.42           443                 10.42.0.151                        33489                     SCAREWARE_AVFORANDROID              6
 3,AVFORANDROID,202.108.23.109           80                 10.42.0.151                        57573                     SCAREWARE_AVFORANDROID              6
@@ -79,6 +139,26 @@ group,variable,value
 18,AVFORANDROID,10.42.0.151           4452                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
 19,AVFORANDROID,10.42.0.151           29373                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
 20,AVFORANDROID,10.42.0.151           33694                 10.42.0.1                        5351                     SCAREWARE_AVFORANDROID              17
+21,AVFORANDROID,10.42.0.151           57573                 202.108.23.109                        80                     SCAREWARE_AVFORANDROID              6
+22,AVFORANDROID,172.217.11.42           443                 10.42.0.151                        33489                     SCAREWARE_AVFORANDROID              6
+23,AVFORANDROID,202.108.23.109           80                 10.42.0.151                        57573                     SCAREWARE_AVFORANDROID              6
+24,AVFORANDROID,31.13.71.37           443                 10.42.0.151                        37817                     SCAREWARE_AVFORANDROID              6
+25,AVFORANDROID,174.35.73.136           80                 10.42.0.151                        51988                     SCAREWARE_AVFORANDROID              6
+26,AVFORANDROID,180.149.138.197           80                 10.42.0.151                        33583                     SCAREWARE_AVFORANDROID              6
+27,AVFORANDROID,23.208.87.120           80                 10.42.0.151                        46326                     SCAREWARE_AVFORANDROID              6
+28,AVFORANDROID,106.11.30.202           443                 10.42.0.151                        50100                     SCAREWARE_AVFORANDROID              6
+29,AVFORANDROID,113.108.216.233           80                 10.42.0.151                        51934                     SCAREWARE_AVFORANDROID              6
+30,AVFORANDROID,205.185.216.42           443                 10.42.0.151                        55907                     SCAREWARE_AVFORANDROID              6
+31,AVFORANDROID,10.42.0.1           8612                 10.42.0.255                        8612                     SCAREWARE_AVFORANDROID              17
+32,AVFORANDROID,10.42.0.1           8612                 10.42.0.255                        8610                     SCAREWARE_AVFORANDROID              17
+33,AVFORANDROID,10.42.0.1           5353                 224.0.0.251                        5353                     SCAREWARE_AVFORANDROID              17
+34,AVFORANDROID,10.42.0.151           13274                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
+35,AVFORANDROID,10.42.0.151           8147                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
+36,AVFORANDROID,10.42.0.151           22672                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
+37,AVFORANDROID,10.42.0.151           8323                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
+38,AVFORANDROID,10.42.0.151           4452                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
+39,AVFORANDROID,10.42.0.151           29373                 10.42.0.1                        53                     SCAREWARE_AVFORANDROID              17
+40,AVFORANDROID,10.42.0.151           33694                 10.42.0.1                        5351                     SCAREWARE_AVFORANDROID              17
 1,AVPASS,10.42.0.42           56784                 172.217.12.170                        443                     SCAREWARE_AVPASS              6
 2,AVPASS,10.42.0.42           37060                 172.217.10.238                        443                     SCAREWARE_AVPASS              6
 3,AVPASS,172.217.10.238           443                 10.42.0.42                        37060                     SCAREWARE_AVPASS              6
@@ -99,6 +179,26 @@ group,variable,value
 18,AVPASS,10.42.0.42           53377                 172.217.12.206                        443                     SCAREWARE_AVPASS              17
 19,AVPASS,10.42.0.42           20299                 10.42.0.1                        53                     SCAREWARE_AVPASS              17
 20,AVPASS,10.42.0.42           16090                 10.42.0.1                        53                     SCAREWARE_AVPASS              17
+21,AVPASS,10.42.0.42           56784                 172.217.12.170                        443                     SCAREWARE_AVPASS              6
+22,AVPASS,10.42.0.42           37060                 172.217.10.238                        443                     SCAREWARE_AVPASS              6
+23,AVPASS,172.217.10.238           443                 10.42.0.42                        37060                     SCAREWARE_AVPASS              6
+24,AVPASS,180.149.138.210           80                 10.42.0.42                        48653                     SCAREWARE_AVPASS              6
+25,AVPASS,202.102.68.102           80                 10.42.0.42                        56323                     SCAREWARE_AVPASS              6
+26,AVPASS,119.146.74.49           443                 10.42.0.42                        47677                     SCAREWARE_AVPASS              6
+27,AVPASS,64.71.142.110           443                 10.42.0.42                        37438                     SCAREWARE_AVPASS              6
+28,AVPASS,10.42.0.42           59318                 183.136.237.235                        80                     SCAREWARE_AVPASS              6
+29,AVPASS,174.35.73.99           443                 10.42.0.42                        35958                     SCAREWARE_AVPASS              6
+30,AVPASS,10.42.0.42           46719                 114.112.89.213                        80                     SCAREWARE_AVPASS              6
+31,AVPASS,10.42.0.42           18831                 10.42.0.1                        53                     SCAREWARE_AVPASS              17
+32,AVPASS,10.42.0.42           39710                 172.217.10.45                        443                     SCAREWARE_AVPASS              17
+33,AVPASS,10.42.0.42           39114                 239.255.255.250                        1900                     SCAREWARE_AVPASS              17
+34,AVPASS,10.42.0.42           46360                 157.55.235.173                        40024                     SCAREWARE_AVPASS              17
+35,AVPASS,10.42.0.42           46360                 111.221.77.167                        40033                     SCAREWARE_AVPASS              17
+36,AVPASS,10.42.0.42           36449                 172.217.10.131                        443                     SCAREWARE_AVPASS              17
+37,AVPASS,10.42.0.42           56235                 172.217.11.35                        443                     SCAREWARE_AVPASS              17
+38,AVPASS,10.42.0.42           53377                 172.217.12.206                        443                     SCAREWARE_AVPASS              17
+39,AVPASS,10.42.0.42           20299                 10.42.0.1                        53                     SCAREWARE_AVPASS              17
+40,AVPASS,10.42.0.42           16090                 10.42.0.1                        53                     SCAREWARE_AVPASS              17
 1,FAKEAPP,10.42.0.211           38761                 172.217.3.106                        443                     SCAREWARE_FAKEAPP              6
 2,FAKEAPP,157.240.2.36           443                 10.42.0.211                        42365                     SCAREWARE_FAKEAPP              6
 3,FAKEAPP,172.217.9.225           443                 10.42.0.211                        40333                     SCAREWARE_FAKEAPP              6
@@ -119,6 +219,26 @@ group,variable,value
 18,FAKEAPP,10.42.0.211           60774                 64.4.23.140                        40022                     SCAREWARE_FAKEAPP              17
 19,FAKEAPP,10.42.0.211           55119                 10.42.0.1                        53                     SCAREWARE_FAKEAPP              17
 20,FAKEAPP,10.42.0.211           60774                 157.55.130.146                        40001                     SCAREWARE_FAKEAPP              17
+21,FAKEAPP,10.42.0.211           38761                 172.217.3.106                        443                     SCAREWARE_FAKEAPP              6
+22,FAKEAPP,157.240.2.36           443                 10.42.0.211                        42365                     SCAREWARE_FAKEAPP              6
+23,FAKEAPP,172.217.9.225           443                 10.42.0.211                        40333                     SCAREWARE_FAKEAPP              6
+24,FAKEAPP,216.58.217.164           443                 10.42.0.211                        55614                     SCAREWARE_FAKEAPP              6
+25,FAKEAPP,10.42.0.211           60577                 202.77.129.230                        80                     SCAREWARE_FAKEAPP              6
+26,FAKEAPP,172.217.11.10           443                 10.42.0.211                        46778                     SCAREWARE_FAKEAPP              6
+27,FAKEAPP,172.217.3.106           443                 10.42.0.211                        48585                     SCAREWARE_FAKEAPP              6
+28,FAKEAPP,31.13.80.8           443                 10.42.0.211                        48003                     SCAREWARE_FAKEAPP              6
+29,FAKEAPP,151.101.1.140           443                 10.42.0.211                        40579                     SCAREWARE_FAKEAPP              6
+30,FAKEAPP,172.217.5.227           443                 10.42.0.211                        38358                     SCAREWARE_FAKEAPP              6
+31,FAKEAPP,10.42.0.211           42115                 10.42.0.1                        53                     SCAREWARE_FAKEAPP              17
+32,FAKEAPP,10.42.0.1           33718                 239.255.255.250                        1900                     SCAREWARE_FAKEAPP              17
+33,FAKEAPP,10.42.0.211           61270                 10.42.0.1                        53                     SCAREWARE_FAKEAPP              17
+34,FAKEAPP,10.42.0.1           39872                 239.255.255.250                        1900                     SCAREWARE_FAKEAPP              17
+35,FAKEAPP,10.42.0.1           50747                 239.255.255.250                        1900                     SCAREWARE_FAKEAPP              17
+36,FAKEAPP,10.42.0.211           60774                 157.55.130.154                        40021                     SCAREWARE_FAKEAPP              17
+37,FAKEAPP,10.42.0.211           14491                 10.42.0.1                        53                     SCAREWARE_FAKEAPP              17
+38,FAKEAPP,10.42.0.211           60774                 64.4.23.140                        40022                     SCAREWARE_FAKEAPP              17
+39,FAKEAPP,10.42.0.211           55119                 10.42.0.1                        53                     SCAREWARE_FAKEAPP              17
+40,FAKEAPP,10.42.0.211           60774                 157.55.130.146                        40001                     SCAREWARE_FAKEAPP              17
 1,FAKEAV,10.42.0.42           59998                 172.217.10.42                        443                     SCAREWARE_FAKEAV              6
 2,FAKEAV,172.217.10.130           443                 10.42.0.42                        37227                     SCAREWARE_FAKEAV              6
 3,FAKEAV,180.149.138.197           80                 10.42.0.42                        56199                     SCAREWARE_FAKEAV              6
@@ -139,6 +259,26 @@ group,variable,value
 18,FAKEAV,10.42.0.42           18739                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
 19,FAKEAV,10.42.0.42           46531                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
 20,FAKEAV,10.42.0.42           55981                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
+21,FAKEAV,10.42.0.42           59998                 172.217.10.42                        443                     SCAREWARE_FAKEAV              6
+22,FAKEAV,172.217.10.130           443                 10.42.0.42                        37227                     SCAREWARE_FAKEAV              6
+23,FAKEAV,180.149.138.197           80                 10.42.0.42                        56199                     SCAREWARE_FAKEAV              6
+24,FAKEAV,174.35.73.71           80                 10.42.0.42                        43497                     SCAREWARE_FAKEAV              6
+25,FAKEAV,216.58.203.131           443                 10.42.0.42                        58865                     SCAREWARE_FAKEAV              6
+26,FAKEAV,10.42.0.42           43707                 174.35.73.71                        80                     SCAREWARE_FAKEAV              6
+27,FAKEAV,106.11.94.6           443                 10.42.0.42                        42652                     SCAREWARE_FAKEAV              6
+28,FAKEAV,10.42.0.42           38670                 64.71.142.120                        80                     SCAREWARE_FAKEAV              6
+29,FAKEAV,106.39.169.66           443                 10.42.0.42                        47246                     SCAREWARE_FAKEAV              6
+30,FAKEAV,10.42.0.42           48285                 123.125.115.164                        443                     SCAREWARE_FAKEAV              6
+31,FAKEAV,10.42.0.42           46360                 65.55.223.36                        40035                     SCAREWARE_FAKEAV              17
+32,FAKEAV,10.42.0.42           47678                 172.217.6.195                        443                     SCAREWARE_FAKEAV              17
+33,FAKEAV,10.42.0.42           40437                 172.217.10.227                        443                     SCAREWARE_FAKEAV              17
+34,FAKEAV,10.42.0.42           50096                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
+35,FAKEAV,10.42.0.42           23350                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
+36,FAKEAV,10.42.0.42           12107                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
+37,FAKEAV,10.42.0.42           54892                 172.217.7.3                        443                     SCAREWARE_FAKEAV              17
+38,FAKEAV,10.42.0.42           18739                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
+39,FAKEAV,10.42.0.42           46531                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
+40,FAKEAV,10.42.0.42           55981                 10.42.0.1                        53                     SCAREWARE_FAKEAV              17
 1,FAKEJOBOFFER,31.13.69.197           443                 10.42.0.211                        57022                     SCAREWARE_FAKEJOBOFFER              6
 2,FAKEJOBOFFER,10.42.0.211           57022                 31.13.69.197                        443                     SCAREWARE_FAKEJOBOFFER              6
 3,FAKEJOBOFFER,40.117.145.132           443                 10.42.0.211                        40909                     SCAREWARE_FAKEJOBOFFER              6
@@ -159,6 +299,26 @@ group,variable,value
 18,FAKEJOBOFFER,10.42.0.211           35381                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
 19,FAKEJOBOFFER,10.42.0.211           35381                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
 20,FAKEJOBOFFER,10.42.0.211           3551                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+21,FAKEJOBOFFER,31.13.69.197           443                 10.42.0.211                        57022                     SCAREWARE_FAKEJOBOFFER              6
+22,FAKEJOBOFFER,10.42.0.211           57022                 31.13.69.197                        443                     SCAREWARE_FAKEJOBOFFER              6
+23,FAKEJOBOFFER,40.117.145.132           443                 10.42.0.211                        40909                     SCAREWARE_FAKEJOBOFFER              6
+24,FAKEJOBOFFER,10.42.0.211           60159                 172.217.7.14                        443                     SCAREWARE_FAKEJOBOFFER              6
+25,FAKEJOBOFFER,157.240.2.36           443                 10.42.0.211                        55833                     SCAREWARE_FAKEJOBOFFER              6
+26,FAKEJOBOFFER,10.42.0.211           33958                 91.190.216.63                        12350                     SCAREWARE_FAKEJOBOFFER              6
+27,FAKEJOBOFFER,10.42.0.211           53547                 111.221.77.148                        40010                     SCAREWARE_FAKEJOBOFFER              6
+28,FAKEJOBOFFER,10.42.0.211           51282                 172.217.7.14                        443                     SCAREWARE_FAKEJOBOFFER              6
+29,FAKEJOBOFFER,10.42.0.211           41721                 172.217.12.206                        80                     SCAREWARE_FAKEJOBOFFER              6
+30,FAKEJOBOFFER,10.42.0.211           43092                 172.217.12.138                        443                     SCAREWARE_FAKEJOBOFFER              6
+31,FAKEJOBOFFER,10.42.0.211           5353                 224.0.0.251                        5353                     SCAREWARE_FAKEJOBOFFER              17
+32,FAKEJOBOFFER,10.42.0.211           23790                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+33,FAKEJOBOFFER,10.42.0.211           27849                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+34,FAKEJOBOFFER,10.42.0.211           29414                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+35,FAKEJOBOFFER,10.42.0.211           36118                 239.255.255.250                        1900                     SCAREWARE_FAKEJOBOFFER              17
+36,FAKEJOBOFFER,10.42.0.211           45389                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+37,FAKEJOBOFFER,10.42.0.211           19495                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+38,FAKEJOBOFFER,10.42.0.211           35381                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+39,FAKEJOBOFFER,10.42.0.211           35381                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
+40,FAKEJOBOFFER,10.42.0.211           3551                 10.42.0.1                        53                     SCAREWARE_FAKEJOBOFFER              17
 1,FAKETAOBAO,10.42.0.42           39860                 172.217.11.10                        443                     SCAREWARE_FAKETAOBAO              6
 2,FAKETAOBAO,10.42.0.42           60916                 183.79.248.252                        443                     SCAREWARE_FAKETAOBAO              6
 3,FAKETAOBAO,10.42.0.42           54364                 183.79.248.252                        80                     SCAREWARE_FAKETAOBAO              6
@@ -179,6 +339,26 @@ group,variable,value
 18,FAKETAOBAO,10.42.0.42           58500                 10.42.0.1                        53                     SCAREWARE_FAKETAOBAO              17
 19,FAKETAOBAO,10.42.0.42           50250                 216.58.219.193                        443                     SCAREWARE_FAKETAOBAO              17
 20,FAKETAOBAO,10.42.0.42           50250                 216.58.219.193                        443                     SCAREWARE_FAKETAOBAO              17
+21,FAKETAOBAO,10.42.0.42           39860                 172.217.11.10                        443                     SCAREWARE_FAKETAOBAO              6
+22,FAKETAOBAO,10.42.0.42           60916                 183.79.248.252                        443                     SCAREWARE_FAKETAOBAO              6
+23,FAKETAOBAO,10.42.0.42           54364                 183.79.248.252                        80                     SCAREWARE_FAKETAOBAO              6
+24,FAKETAOBAO,172.217.3.99           443                 10.42.0.42                        51700                     SCAREWARE_FAKETAOBAO              6
+25,FAKETAOBAO,10.42.0.42           47300                 172.217.6.202                        443                     SCAREWARE_FAKETAOBAO              6
+26,FAKETAOBAO,172.217.11.10           443                 10.42.0.42                        55640                     SCAREWARE_FAKETAOBAO              6
+27,FAKETAOBAO,119.146.74.34           80                 10.42.0.42                        40019                     SCAREWARE_FAKETAOBAO              6
+28,FAKETAOBAO,119.146.74.48           80                 10.42.0.42                        53349                     SCAREWARE_FAKETAOBAO              6
+29,FAKETAOBAO,36.248.26.164           443                 10.42.0.42                        45888                     SCAREWARE_FAKETAOBAO              6
+30,FAKETAOBAO,203.205.158.24           443                 10.42.0.42                        37676                     SCAREWARE_FAKETAOBAO              6
+31,FAKETAOBAO,10.42.0.42           25037                 10.42.0.1                        53                     SCAREWARE_FAKETAOBAO              17
+32,FAKETAOBAO,10.42.0.42           35470                 10.42.0.1                        53                     SCAREWARE_FAKETAOBAO              17
+33,FAKETAOBAO,10.42.0.42           46360                 157.55.56.163                        40027                     SCAREWARE_FAKETAOBAO              17
+34,FAKETAOBAO,10.42.0.42           52550                 172.217.9.238                        443                     SCAREWARE_FAKETAOBAO              17
+35,FAKETAOBAO,10.42.0.42           42965                 172.217.12.174                        443                     SCAREWARE_FAKETAOBAO              17
+36,FAKETAOBAO,10.42.0.42           55397                 10.42.0.1                        53                     SCAREWARE_FAKETAOBAO              17
+37,FAKETAOBAO,10.42.0.42           38045                 172.217.9.237                        443                     SCAREWARE_FAKETAOBAO              17
+38,FAKETAOBAO,10.42.0.42           58500                 10.42.0.1                        53                     SCAREWARE_FAKETAOBAO              17
+39,FAKETAOBAO,10.42.0.42           50250                 216.58.219.193                        443                     SCAREWARE_FAKETAOBAO              17
+40,FAKETAOBAO,10.42.0.42           50250                 216.58.219.193                        443                     SCAREWARE_FAKETAOBAO              17
 1,PENETHO,10.42.0.151           41250                 216.58.219.234                        443                     SCAREWARE_PENETHO              6
 2,PENETHO,10.42.0.151           48628                 203.205.158.63                        80                     SCAREWARE_PENETHO              6
 3,PENETHO,203.205.158.63           80                 10.42.0.151                        48628                     SCAREWARE_PENETHO              6
@@ -199,6 +379,26 @@ group,variable,value
 18,PENETHO,10.42.0.151           11533                 8.8.8.8                        53                     SCAREWARE_PENETHO              17
 19,PENETHO,10.42.0.151           65439                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
 20,PENETHO,10.42.0.151           57411                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+21,PENETHO,10.42.0.151           41250                 216.58.219.234                        443                     SCAREWARE_PENETHO              6
+22,PENETHO,10.42.0.151           48628                 203.205.158.63                        80                     SCAREWARE_PENETHO              6
+23,PENETHO,203.205.158.63           80                 10.42.0.151                        48628                     SCAREWARE_PENETHO              6
+24,PENETHO,203.205.158.63           80                 10.42.0.151                        48627                     SCAREWARE_PENETHO              6
+25,PENETHO,10.42.0.151           59446                 172.217.6.238                        443                     SCAREWARE_PENETHO              6
+26,PENETHO,31.13.71.37           443                 10.42.0.151                        33028                     SCAREWARE_PENETHO              6
+27,PENETHO,10.42.0.151           33028                 31.13.71.37                        443                     SCAREWARE_PENETHO              6
+28,PENETHO,66.198.26.48           80                 10.42.0.151                        41713                     SCAREWARE_PENETHO              6
+29,PENETHO,10.42.0.151           44208                 203.205.147.229                        80                     SCAREWARE_PENETHO              6
+30,PENETHO,10.42.0.151           47670                 157.240.2.15                        443                     SCAREWARE_PENETHO              6
+31,PENETHO,10.42.0.151           10554                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+32,PENETHO,10.42.0.151           40502                 172.217.1.163                        443                     SCAREWARE_PENETHO              17
+33,PENETHO,10.42.0.151           37659                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+34,PENETHO,10.42.0.151           52153                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+35,PENETHO,10.42.0.151           61957                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+36,PENETHO,10.42.0.151           36487                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+37,PENETHO,10.42.0.151           15948                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+38,PENETHO,10.42.0.151           11533                 8.8.8.8                        53                     SCAREWARE_PENETHO              17
+39,PENETHO,10.42.0.151           65439                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
+40,PENETHO,10.42.0.151           57411                 10.42.0.1                        53                     SCAREWARE_PENETHO              17
 1,VIRUSSHIELD,10.42.0.42           47855                 172.217.10.46                        443                     SCAREWARE_VIRUSSHIELD              6
 2,VIRUSSHIELD,172.217.10.46           443                 10.42.0.42                        47855                     SCAREWARE_VIRUSSHIELD              6
 3,VIRUSSHIELD,10.42.0.42           45966                 172.217.12.130                        443                     SCAREWARE_VIRUSSHIELD              6
@@ -219,6 +419,26 @@ group,variable,value
 18,VIRUSSHIELD,10.42.0.42           60813                 239.255.255.250                        1900                     SCAREWARE_VIRUSSHIELD              17
 19,VIRUSSHIELD,10.42.0.42           1699                 10.42.0.1                        53                     SCAREWARE_VIRUSSHIELD              17
 20,VIRUSSHIELD,10.42.0.42           14445                 10.42.0.1                        53                     SCAREWARE_VIRUSSHIELD              17
+21,VIRUSSHIELD,10.42.0.42           47855                 172.217.10.46                        443                     SCAREWARE_VIRUSSHIELD              6
+22,VIRUSSHIELD,172.217.10.46           443                 10.42.0.42                        47855                     SCAREWARE_VIRUSSHIELD              6
+23,VIRUSSHIELD,10.42.0.42           45966                 172.217.12.130                        443                     SCAREWARE_VIRUSSHIELD              6
+24,VIRUSSHIELD,172.217.12.130           443                 10.42.0.42                        45966                     SCAREWARE_VIRUSSHIELD              6
+25,VIRUSSHIELD,10.42.0.42           39742                 157.56.52.23                        40033                     SCAREWARE_VIRUSSHIELD              6
+26,VIRUSSHIELD,10.42.0.42           56278                 91.190.219.42                        12350                     SCAREWARE_VIRUSSHIELD              6
+27,VIRUSSHIELD,172.217.11.10           443                 10.42.0.42                        36724                     SCAREWARE_VIRUSSHIELD              6
+28,VIRUSSHIELD,104.244.42.66           443                 10.42.0.42                        60543                     SCAREWARE_VIRUSSHIELD              6
+29,VIRUSSHIELD,10.42.0.42           42176                 180.149.138.197                        80                     SCAREWARE_VIRUSSHIELD              6
+30,VIRUSSHIELD,172.217.10.77           443                 10.42.0.42                        45171                     SCAREWARE_VIRUSSHIELD              6
+31,VIRUSSHIELD,10.42.0.42           27321                 10.42.0.1                        53                     SCAREWARE_VIRUSSHIELD              17
+32,VIRUSSHIELD,10.42.0.42           46360                 157.55.56.163                        40027                     SCAREWARE_VIRUSSHIELD              17
+33,VIRUSSHIELD,10.42.0.42           59628                 172.217.7.3                        443                     SCAREWARE_VIRUSSHIELD              17
+34,VIRUSSHIELD,10.42.0.42           46360                 111.221.77.168                        443                     SCAREWARE_VIRUSSHIELD              17
+35,VIRUSSHIELD,10.42.0.42           32901                 10.42.0.1                        53                     SCAREWARE_VIRUSSHIELD              17
+36,VIRUSSHIELD,10.42.0.42           46360                 157.55.235.173                        40024                     SCAREWARE_VIRUSSHIELD              17
+37,VIRUSSHIELD,10.42.0.42           57763                 10.42.0.1                        53                     SCAREWARE_VIRUSSHIELD              17
+38,VIRUSSHIELD,10.42.0.42           60813                 239.255.255.250                        1900                     SCAREWARE_VIRUSSHIELD              17
+39,VIRUSSHIELD,10.42.0.42           1699                 10.42.0.1                        53                     SCAREWARE_VIRUSSHIELD              17
+40,VIRUSSHIELD,10.42.0.42           14445                 10.42.0.1                        53                     SCAREWARE_VIRUSSHIELD              17
 1,BENIGN,180.149.138.210           80                 10.42.0.211                        46729                     BENIGN              6
 2,BENIGN,10.42.0.211           48684                 180.149.136.194                        80                     BENIGN              6
 3,BENIGN,123.125.29.220           80                 10.42.0.211                        54756                     BENIGN              6
@@ -239,3 +459,23 @@ group,variable,value
 18,BENIGN,10.42.0.211           60774                 157.55.56.163                        40015                     BENIGN              17
 19,BENIGN,10.42.0.211           41296                 239.255.255.250                        1900                     BENIGN              17
 20,BENIGN,10.42.0.211           60774                 157.55.235.173                        40001                     BENIGN              17
+21,BENIGN,180.149.138.210           80                 10.42.0.211                        46729                     BENIGN              6
+22,BENIGN,10.42.0.211           48684                 180.149.136.194                        80                     BENIGN              6
+23,BENIGN,123.125.29.220           80                 10.42.0.211                        54756                     BENIGN              6
+24,BENIGN,10.42.0.211           40037                 157.240.18.35                        443                     BENIGN              6
+25,BENIGN,10.42.0.211           36734                 185.110.132.96                        3000                     BENIGN              6
+26,BENIGN,10.42.0.211           54828                 123.125.29.220                        80                     BENIGN              6
+27,BENIGN,180.149.136.247           80                 10.42.0.211                        36627                     BENIGN              6
+28,BENIGN,106.11.30.199           80                 10.42.0.211                        42875                     BENIGN              6
+29,BENIGN,10.42.0.211           39748                 64.71.142.91                        443                     BENIGN              6
+30,BENIGN,123.125.115.164           443                 10.42.0.211                        58398                     BENIGN              6
+31,BENIGN,10.42.0.211           53344                 10.42.0.1                        53                     BENIGN              17
+32,BENIGN,10.42.0.211           53713                 10.42.0.1                        53                     BENIGN              17
+33,BENIGN,10.42.0.1           5353                 224.0.0.251                        5353                     BENIGN              17
+34,BENIGN,10.42.0.211           25002                 10.42.0.1                        53                     BENIGN              17
+35,BENIGN,10.42.0.211           60774                 96.49.96.71                        29407                     BENIGN              17
+36,BENIGN,10.42.0.211           34706                 10.42.0.1                        5351                     BENIGN              17
+37,BENIGN,10.42.0.1           45783                 239.255.255.250                        1900                     BENIGN              17
+38,BENIGN,10.42.0.211           60774                 157.55.56.163                        40015                     BENIGN              17
+39,BENIGN,10.42.0.211           41296                 239.255.255.250                        1900                     BENIGN              17
+40,BENIGN,10.42.0.211           60774                 157.55.235.173                        40001                     BENIGN              17
